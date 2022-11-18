@@ -1,3 +1,3 @@
 # CarbonFootPrint_LaunchCode_Project
-Carbon Foot Print is the amount of carbon-di-oxide emitted through various human activities. As we all are aware of the climate change and global warming and carbon-di-oxide is the major contributor for it, we all are supposed to know our carbon foot prints and take necessary actions to reduce it.
- main
+Carbon Foot Print is the amount of carbon-dioxide emitted through various human activities. As we all are aware of the climate change and global warming and carbon-di-oxide is the major contributor for it, we all are supposed to know our carbon foot prints and take necessary actions to reduce it.
+My Project collects data from user based on whether the user is a family man or a business person by creating user account and gives the total carbon-dioxide emitted based on the activities like car mileage values,home electricity bill,gas bill,travel in flights.Based on the total carbon-dioxide emitted it gives necessary steps to be taken to reduce carbon-dioxide emissions.
